@@ -22,9 +22,9 @@ Connect with me:
  
 </div>
 
-  <a href="https://github.com/iampawan">
+<a href="https://github.com/jcarlosbatista">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlosbatista&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/jcarlosbatista">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcarlosbatista&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcarlosbatista&show_icons=true&theme=light&line_height=27" alt="Batista github stats"/>
 </a>
