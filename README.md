@@ -28,6 +28,6 @@ Reach me out
   <a href = "mailto:jcarlos.batista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-carlos-sousa-ferreira-batista-5228a868/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/jcarlosbatista/jcarlosbatista/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jcarlosbatista/jcarlosbatista/blob/main/github-contribution-grid-snake.svg)
  
 </div>
