@@ -11,7 +11,7 @@ I'm a **Data Engineering** e **Data Architect**, and that has been working as Da
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlosbatista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-Reach me out
+Connect with me:
 
 <div> 
   <a href="https://www.youtube.com/channel/UCpIW3cUdCdrgfA4dtP4Swnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
