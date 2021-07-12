@@ -5,6 +5,12 @@
 Hi! my name is **Jose Carlos Batista, I'm from Brazil.**
 I'm a **Data Engineering** e **Data Architect**, and that has been working as Data Modeling, Database Administrator "Oracle, SQL Server and DB2", Database Administrator NoSql "Cassandra, ScyllaDB and Neo4j", Data Warehouse, Hadoop Ecosystem, Data Lake, Spark, Spark Streaming, Cloud "Azure, AWS and GCP ", databricks and Machine Learning.
 
+<div>
+  <a href="https://github.com/jcarlosbatista">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcarlosbatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlosbatista&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 Reach me out
 
 <div> 
