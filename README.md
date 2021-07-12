@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcarlosbatista&label=Views&color=blue&style=plastic" alt="jcarlosbatista" /> </p>
 
-# Hey 
+# Hello 
 
-Hi! my name is **Jose Carlos Batista, I'm from Brazil.**
+My name is **Jose Carlos Batista, I'm from Brazil.**
 I'm a **Data Engineering** e **Data Architect**, and that has been working as Data Modeling, Database Administrator "Oracle, SQL Server and DB2", Database Administrator NoSql "Cassandra, ScyllaDB and Neo4j", Data Warehouse, Hadoop Ecosystem, Data Lake, Spark, Spark Streaming, Cloud "Azure, AWS and GCP ", databricks and Machine Learning.
 
 <a href="https://github.com/jcarlosbatista">
