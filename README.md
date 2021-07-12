@@ -4,10 +4,14 @@
 <a href="https://www.linkedin.com/in/jose-carlos-sousa-ferreira-batista-5228a868/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-</a>
 <a href="https://github.com/jcarlosbatista">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/jcarlos.batista/">
+  <img align="left" alt="Carlos Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCpIW3cUdCdrgfA4dtP4Swnw/">
+  <img align="left" alt="Data Driven Technology Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
