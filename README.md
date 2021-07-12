@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcarlosbatista&label=Views&color=blue&style=plastic" alt="jcarlosbatista" /> </p>
+
 # Hey 
 
 Hi! my name is **Jose Carlos Batista, I'm from Brazil.**
