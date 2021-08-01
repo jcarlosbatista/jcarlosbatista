@@ -2,6 +2,7 @@
 
 
 I'm a **Data Engineering** e **Data Architect**, and that has been working as Data Modeling, Database Administrator "Oracle, SQL Server and DB2", Database Administrator NoSql "**Cassandra**, ScyllaDB and Neo4j", Data Warehouse, Hadoop Ecosystem, **Data Lake**, **Spark**, Spark Streaming, Cloud "**Azure**, AWS and GCP ", **databricks** and Machine Learning.
+##
 
  <div>
   <a href="https://github.com/jcarlosbatista">
@@ -11,7 +12,7 @@ I'm a **Data Engineering** e **Data Architect**, and that has been working as Da
 <div style="display: inline_block"><br>
   <img align="center" alt="jcarlos-ApacheKafka" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg">
   <img align="center" alt="jcarlos-Databricks" height="30" width="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg">
-  <img align="center" alt="jcarlos-Kubernetes" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg">
+  <img align="center" alt="jcarlos-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/kubernetes/kubernetes/5be21c50c269fc1d28e0bd31ab9dcb572ae7fac5/logo/logo.svg">
   <img align="center" alt="jcarlos-Hadoop" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg">
   <img align="center" alt="jcarlos-Alteryx" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg">
   
@@ -34,7 +35,8 @@ I'm a **Data Engineering** e **Data Architect**, and that has been working as Da
 
 </div>
 
-##
+ ##
+ 
 <div>
   <a href="https://www.youtube.com/channel/UCpIW3cUdCdrgfA4dtP4Swnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:jcarlos.batista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
