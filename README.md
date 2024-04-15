@@ -1,9 +1,20 @@
-## Hi! My name is **Jose Carlos Batista.**
+## Hi there! I'm **Jose Carlos Batista.**
+
+<div>
+  <a href="https://www.youtube.com/channel/UCpIW3cUdCdrgfA4dtP4Swnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jcarlos.batista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jcarlos-batista/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+## I am Big Data Engineer | Cloud Data Engineer | Data Architect | Databricks | Apache Spark | Data Scientist.
+
+### My focus is to solve business problems through Data Engineering, Data Architect, AWS, Azure, GCP, Python, Apache Spark and Databricks.
 
 
-I'm a **Data Engineering** e **Data Architect**, and that has been working as Data Modeling, Database Administrator "Oracle, SQL Server and DB2", Database Administrator NoSql "**Cassandra**, ScyllaDB and Neo4j", Data Warehouse, Hadoop Ecosystem, **Data Lake**, **Spark**, Spark Streaming, Cloud "**Azure**, AWS and GCP ", **databricks** and Machine Learning.
 ##
 
+
+
+ 
  <div>
   <a href="https://github.com/jcarlosbatista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcarlosbatista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -37,11 +48,26 @@ I'm a **Data Engineering** e **Data Architect**, and that has been working as Da
 
  ##
  
-<div>
-  <a href="https://www.youtube.com/channel/UCpIW3cUdCdrgfA4dtP4Swnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jcarlos.batista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jose-carlos-sousa-ferreira-batista-5228a868/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
  ![Snake animation](https://github.com/jcarlosbatista/jcarlosbatista/blob/main/github-contribution-grid-snake.svg)
   
 </div>
+
+
+## MBA :
+
+> #### <code>Graduação FIAP: Data Science Big Data, Bi & Data Engineering</code>
+> #### <code>MBA FIA Analytics em Big Data</code>
+> #### <code>Mestrado FGV Finanças Enfase Ciencias de dados</code>
+> #### <code>PosTech FIAP Inteligencia Artificial e Machine Learning</code>
+
+<br>
+
+## Contatos: 
+
+> #### <code> E-mail: jcarlos.batista@gmail.com </code> 
+> #### <code> Cel./WhatsApp: (11) 9 4069-4912 </code> 
+> #### <code> Linkedin: <a href="https://www.linkedin.com/in/jcarlos-batista//"> Jose Carlos Batista</a> </code>
+> #### <code> GitHub: <a href="https://github.com/jcarlosbatista"> github.com/jcarlosbatista </a> </code>
+> #### <code> Portifólio: <a href="https://data-driven-technology.notion.site/Jose-Carlos-Batista-Portfolio"> Portifólio Jose Carlos Batista </a> </code>
