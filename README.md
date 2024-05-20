@@ -55,7 +55,7 @@
 </div>
 
 
-## MBA :
+## Education :
 
 > #### <code>Graduação FIAP: Data Science Big Data, Bi & Data Engineering</code>
 > #### <code>MBA FIA Analytics em Big Data</code>
@@ -64,7 +64,7 @@
 
 <br>
 
-## Contatos: 
+## Contact: 
 
 > #### <code> E-mail: jcarlos.batista@gmail.com </code> 
 > #### <code> Cel./WhatsApp: (11) 9 4069-4912 </code> 
