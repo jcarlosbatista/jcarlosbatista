@@ -70,4 +70,4 @@
 > #### <code> Cel./WhatsApp: (11) 9 4069-4912 </code> 
 > #### <code> Linkedin: <a href="https://www.linkedin.com/in/jcarlos-batista//"> Jose Carlos Batista</a> </code>
 > #### <code> GitHub: <a href="https://github.com/jcarlosbatista"> github.com/jcarlosbatista </a> </code>
-> #### <code> Portifólio: <a href="https://data-driven-technology.notion.site/Jose-Carlos-Batista-Portfolio"> Portifólio Jose Carlos Batista </a> </code>
+> #### <code> Portifólio: <a href="https://jcarlos-batista.notion.site/Jose-Carlos-Batista-Portfolio-EM-CONSTRUCAO-63eb6cbf6fd8486ebafeac630c294549?pvs=4"> Portifólio Jose Carlos Batista </a> </code>
