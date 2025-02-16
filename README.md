@@ -59,7 +59,8 @@
 
 > #### <code>Graduação FIAP: Data Science Big Data, Bi & Data Engineering</code>
 > #### <code>MBA FIA Analytics em Big Data</code>
-> #### <code>Mestrado FGV Finanças Enfase Ciencias de dados</code>
+> #### <code>Mestrado IPT - Computação Aplicada Enfase em inteligencia Artificial</code>
+> #### <code>PosTech The Cloud Bootcamp Inteligencia Artificial</code>
 > #### <code>PosTech FIAP Inteligencia Artificial e Machine Learning</code>
 
 <br>
